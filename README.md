@@ -1,5 +1,4 @@
-## HAPP-AV-IT
-### Household Activity Pattern Problem with AV-enabled Intermodal Trips
+### Household Activity Pattern Problem with AV-enabled Intermodal Trips (HAPP-AV-IT)
 
 Contributors:
 - Younghun Bahk (Postdoctoral Researcher at University of California, Irvine)
