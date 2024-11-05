@@ -7,5 +7,7 @@ Contributors:
 This page includes:
 - HAPP-AV-IT with Gurobi solver
 - HAPP-AV-IT with insertion heuristic
+- Sample virtual input network
+- Sample three fictitious household activity profiles
 
 Please contact ybahk@uci.edu for your questions.
