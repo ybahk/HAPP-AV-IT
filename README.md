@@ -9,5 +9,6 @@ This page includes:
 - HAPP-AV-IT with insertion heuristic
 - Sample virtual input network
 - Sample three fictitious household activity profiles
+- Results of sample runs
 
 Please contact ybahk@uci.edu for your questions.
