@@ -1,4 +1,6 @@
-Household Activity Pattern Problem with AV-enabled Intermodal Trips
+# Household Activity Pattern Problem with AV-enabled Intermodal Trips
+
+Contributors:
 - Younghun Bahk (Postdoctoral Researcher at University of California, Irvine)
 - Michael Hyland (Assistant Professor at University of California, Irvine)
 
