@@ -3,3 +3,5 @@ Household Activity Pattern Problem with AV-enabled Intermodal Trips
 
 - HAPP-AV-IT with Gurobi solver
 - HAPP-AV-IT with insertion heuristic
+
+Please contact ybahk@uci.edu for your questions.
