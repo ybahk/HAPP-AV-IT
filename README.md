@@ -1,4 +1,4 @@
-# HAPP-AV-IT
+## HAPP-AV-IT
 Household Activity Pattern Problem with AV-enabled Intermodal Trips
 
 Contributors:
