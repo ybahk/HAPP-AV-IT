@@ -5,8 +5,8 @@ Contributors:
 - Michael Hyland (Assistant Professor at University of California, Irvine)
 
 This page includes:
-- HAPP-AV-IT with Gurobi solver
-- HAPP-AV-IT with insertion heuristic
+- HAPP-AV-IT codes for Gurobi solver
+- HAPP-AV-IT codes for insertion heuristic
 - Sample virtual input network
 - Sample three fictitious household activity profiles
 - Results of sample runs
