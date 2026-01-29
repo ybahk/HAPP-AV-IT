@@ -2,8 +2,8 @@
 https://doi.org/10.1016/j.trc.2024.104930
 
 Contributors:
-- Younghun Bahk (Postdoctoral Researcher at University of California, Irvine)
-- Michael Hyland (Assistant Professor at University of California, Irvine)
+- Younghun Bahk (Assistant Professor at Ajou University)
+- Michael Hyland (Associate Professor at University of California, Irvine)
 
 This page includes:
 - HAPP-AV-IT codes for Gurobi solver
